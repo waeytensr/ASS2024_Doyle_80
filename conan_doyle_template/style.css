@@ -12,6 +12,7 @@ img {
 
 p {
     text-indent: 10px;
+    display: block;
 }
 
 .row {
@@ -29,6 +30,18 @@ p {
 }
 
 .del {
-  text-decoration: line-through;
+  text-decoration: line-through; 
 }
 
+.image_container {
+  width:100%;
+  overflow:auto;
+}
+
+.img_right {
+  width: 50%;
+}
+
+.img_ {
+  width: 50%;
+}
