@@ -20,13 +20,13 @@
          </seriesStmt>
          <sourceDesc>
             <bibl>
-              <title type="main">The adventure of the Norwood builder</title>
+              <title type="main"><i>The adventure of the Norwood builder</i> -</title>
               <author>Arthur Conan Doyle</author>
               <respStmt>
-                <resp>Writer</resp>
-                <name>Arthur Conan Doyle</name>
+                <resp>, Writer:</resp>
+                <name>Arthur Conan Doyle.</name>
               </respStmt>
-              <idno type="Transkribus">2892283</idno>
+              
               <note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note>
             </bibl>
          </sourceDesc>
@@ -70,27 +70,27 @@
    <text>
       <body><div><pb facs="#facs_80" n="80" xml:id="img_0080"/>
             <p facs="#facs_80_tr_1">
-               <l facs="#facs_80_tr_1_tl_1" n="N001">37</l>
+               <l facs="#facs_80_tr_1_tl_1" n="N001">37</l></p>
                <lb/>
-               <l facs="#facs_80_tr_1_tl_2" n="N002">both at his hilarious manner and at his rather wild observation.</l>
+              <p><l facs="#facs_80_tr_1_tl_2" n="N002">both at his hilarious manner and at his rather wild observation.</l>
                <l facs="#facs_80_tr_1_tl_3" n="N003" rend="indent">"I dont know whether you think that <rs type="person" key="McFarlane">McFarlane </rs>came</l>
-               <l facs="#facs_80_tr_1_tl_4" n="N004">out of gool in the dead of the night in order to <del type="crossed0out" hand="#ACD" rend="black ink" resp="#RW">leave his</del></l>
+               <l facs="#facs_80_tr_1_tl_4" n="N004">out of gool in the dead of the night in order to <del type="strikethrough" hand="#ACD" rend="black ink" resp="#RW">leave his</del></l>
                <l facs="#facs_80_tr_1_tl_5" n="N005">strengthen the evidence against himself" said Lestrade "I</l>
                <l facs="#facs_80_tr_1_tl_6" n="N006">leave it to any expert in the world whether that is not</l>
-               <l facs="#facs_80_tr_1_tl_7" n="N007">the mark of his thumb"</l>
-               <l facs="#facs_80_tr_1_tl_8" n="N008" rend="indent">"It is unquestionably the mark of his thumb"</l>
-               <l facs="#facs_80_tr_1_tl_9" n="N009" rend="indent">"There, that's enough" said <rs type="person" key="Lestrade, ">Lestrade </rs>"I am a practical</l>
-               <l facs="#facs_80_tr_1_tl_10" n="N010">man, <choice><abbr>Mr</abbr><expan>M<ex>iste</ex>r</expan></choice> <rs type="person" key="Holmes, Sherlock">Holmes</rs>, and when I have got my evidence I come to</l>
+               <l facs="#facs_80_tr_1_tl_7" n="N007">the mark of his thumb"</l></p>
+               <p><l facs="#facs_80_tr_1_tl_8" n="N008" rend="indent">"It is unquestionably the mark of his thumb"</l></p>
+               <p><l facs="#facs_80_tr_1_tl_9" n="N009" rend="indent">"There, that's enough" said <rs type="person" key="Lestrade, ">Lestrade </rs>"I am a practical</l>
+               <l facs="#facs_80_tr_1_tl_10" n="N010">man, Mr <rs type="person" key="Holmes, Sherlock">Holmes</rs>, and when I have got my evidence I come to</l>
                <l facs="#facs_80_tr_1_tl_11" n="N011">my conclusions. If you have anything to say you will find</l>
-               <l facs="#facs_80_tr_1_tl_12" n="N012">me writing my report in the sitting room."</l>
-               <l facs="#facs_80_tr_1_tl_13" n="N013" rend="indent"><rs type="person" key="Holmes, Sherlock">Holmes </rs>had recovered his equanimity, though I</l>
+               <l facs="#facs_80_tr_1_tl_12" n="N012">me writing my report in the sitting room."</l></p>
+              <p><l facs="#facs_80_tr_1_tl_13" n="N013" rend="indent"><rs type="person" key="Holmes, Sherlock">Holmes </rs>had recovered his equanimity, though I</l>
                <l facs="#facs_80_tr_1_tl_14" n="N014">still seemed to detect gleams of amusement in his expression.</l>
                <l facs="#facs_80_tr_1_tl_15" n="N015">"Dear me, this is a very sad development, <rs type="person" key="Watson, John H.">Watson</rs>, is it not?"</l>
-               <l facs="#facs_80_tr_1_tl_16" n="N016">said he "and yet there are <del type="crossed0ut" hand ="#ACD" rend="black ink" resp="#RW" >some</del> singular points about it</l>
-               <l facs="#facs_80_tr_1_tl_17" n="N017">which hold out some hopes for our client"</l>
-               <l facs="#facs_80_tr_1_tl_18" n="N018" rend="indent" >"I am delighted to hear it." said I heartely "I was</l>
-               <l facs="#facs_80_tr_1_tl_19" n="N019">afraid it was all up with him"</l>
-               <l facs="#facs_80_tr_1_tl_20" n="N020" rend="indent">"I would hardly go so far as to say that, my dear</l></p></div>
+               <l facs="#facs_80_tr_1_tl_16" n="N016">said he "and yet there are <del type="strikethrough" hand ="#ACD" rend="black ink" resp="#RW" >some</del> singular points about it</l>
+               <l facs="#facs_80_tr_1_tl_17" n="N017">which hold out some hopes for our client"</l></p>
+              <p><l facs="#facs_80_tr_1_tl_18" n="N018" rend="indent" >"I am delighted to hear it." said I heartely "I was</l>
+               <l facs="#facs_80_tr_1_tl_19" n="N019">afraid it was all up with him"</l></p>
+             <p> <l facs="#facs_80_tr_1_tl_20" n="N020" rend="indent">"I would hardly go so far as to say that, my dear</l></p></div>
       </body>
    </text>
 </TEI>

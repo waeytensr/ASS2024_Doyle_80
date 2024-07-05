@@ -26,7 +26,7 @@ function documentLoader() {
       criticalElement.innerHTML = ''; // Clear existing content
       criticalElement.appendChild(resultDocument);
 
-      setUpAddDel();
+      //setUpAddDel();
     })
     .catch(function (error) {
       console.error("Error loading documents:", error);

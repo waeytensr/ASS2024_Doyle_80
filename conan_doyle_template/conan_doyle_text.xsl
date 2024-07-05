@@ -5,7 +5,7 @@
     exclude-result-prefixes="xs tei"
     version="2.0">
     
-    <!-- <xsl:output method="xml" omit-xml-declaration="yes" indent="yes" /> -->
+    <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
     <xsl:template match="tei:teiHeader"/>
 
     <xsl:template match="tei:body">
@@ -44,9 +44,15 @@
     </xsl:template>
     
     <xsl:template match="tei:p">
-        <p><xsl:apply-templates/></p>
+        <p>
+        <xsl:apply-templates/>
+        </p>
     </xsl:template>
-
+    
+    <xsl:template match="tei:l"> 
+        <xsl:apply-templates/>
+        <br/>
+    </xsl:template>
     
     <xsl:template match="tei:del">
         <span class="del">
@@ -62,6 +68,7 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+
     
     <!-- add additional templates below, for example to transform the tei:l in <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
 
